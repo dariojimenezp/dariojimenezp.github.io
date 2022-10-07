@@ -2,6 +2,18 @@
 body{
     text-align: center;
     background-color: aliceblue;
+}
+
+.Header{
+    color: black;
     font-style: italic;
     font-size: large;
+    text-align: center;
+}
+
+.NormalText{
+    color: darkslategrey;
+    font-style: normal;
+    font-size: medium;
+    text-align: left;
 }
