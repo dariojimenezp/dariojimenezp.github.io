@@ -1,7 +1,7 @@
 
 body{
     text-align: center;
-    background-color: aliceblue;
+    background-color: #5865f2;
 }
 
 .Header{
@@ -11,9 +11,35 @@ body{
     text-align: center;
 }
 
-.NormalText{
-    color: darkslategrey;
-    font-style: normal;
-    font-size: medium;
+.container{
+    background-color: whitesmoke;
+    padding: 2px;
+    margin: auto;
+    width: 25%;
+    margin-bottom: 10px;
+    border-radius: 10px;
     text-align: left;
+}
+#pageEnd{
+    padding: 5px;
+    background-color: #2c2f33;
+    text-align: center;
+}
+
+.links{
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.links:hover{
+    color: #8f92a1;
+}
+
+#topHeader{
+    color: white;
+}
+
+#imgContainer {
+    padding: 10px;
 }
